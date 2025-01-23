@@ -42,6 +42,7 @@ header {
   /* Use Js To Response */
   margin-top: -10px;
   /* Use Js To Response */
+  display: none;
 }
 
 
@@ -94,6 +95,7 @@ footer {
   justify-content: center;
   align-items: center;
   position: relative;
+  display: none;
 }
 
 
@@ -426,6 +428,7 @@ error {
   header {
     transform: scale(0.5) translateX(-100px) translateY(-50px);
     font-size: 1.7rem;
+    display: none;
   }
 
   lan {
@@ -439,6 +442,7 @@ error {
 
   footer {
     text-align: center;
+    display: none;
   }
 
   .footer-wrapper .footer ul li {
